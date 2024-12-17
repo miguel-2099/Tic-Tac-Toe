@@ -3,7 +3,7 @@
 Information about the Tic Tac Toe
 
 * Emojis: [Emojipedia](https://emojipedia.org/)
-* [Tic Tac Toe Video Demo]()
+* [Tic Tac Toe Video Demo](https://youtu.be/uVXFXWlHkSs)
 
 
 # Development Environment 
